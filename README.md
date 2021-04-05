@@ -14,6 +14,8 @@
   - [Flux2](https://github.com/fluxcd/flux2): Re-imagining the way that Kubernetes YAMLs are managed and deployed through [GitOps](https://www.gitops.tech/)
 - Personal Projects
   - [WeBudget](https://github.com/jonathan-innis/we-budget): A fullstack YNAB-based budgeting application built on the MERN tech stack
+- Landscape Photography 🏔️
+  - I live in Seattle, I might as well take advantage of the views
 
 ## Languages and Technologies
 
