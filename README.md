@@ -1,9 +1,9 @@
-# What's up? 👋 I'm Jonathan!
+# What's up? 👋 I'm Jonathan (some people call me Jonny)!
 (Use dark theme to find my socials ;)
 
 <a href="https://www.linkedin.com/in/jonathan-innis/" target="_blank"><img align="left" alt="Jonathan I | LinkedIn" width="22px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/linkedin.svg" />
 <a href="https://www.instagram.com/jonathaninnisphoto" target="_blank"><img align="left" alt="Jonathan I | Instagram" width="22px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/insta.svg" />
-<a href="https://twitter.com/jonathan_innis" target="_blank"><img align="left" alt="Jonathan I | Twitter" width="22px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/twitter.svg" /></a>
+<a href="https://twitter.com/jonnywritescode" target="_blank"><img align="left" alt="Jonathan I | Twitter" width="22px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/twitter.svg" /></a>
   
 </br>
 </br>
