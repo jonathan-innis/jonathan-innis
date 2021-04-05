@@ -15,7 +15,7 @@
 - Personal Projects
   - [WeBudget](https://github.com/jonathan-innis/we-budget): A fullstack YNAB-based budgeting application built on the MERN tech stack
 - Landscape Photography 🏔️
-  - I live in Seattle, I might as well take advantage of the views
+  - I live in Seattle, I might as well take advantage of the views 🤷‍♂️
 
 ## Languages and Technologies
 
