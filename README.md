@@ -33,18 +33,12 @@
 <a href="hhttps://www.adobe.com/products/premiere.html" target="_blank"> <img align="left" alt="Premiere Pro" width="28px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/premiere.png?raw=true"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/illustrator.png?raw=true"/> </a> 
 
-
-<br />
-<br />
-<br />
-<br />
-
-## 🎧 Some Good Beats 
+## Some Good Beats 🎧
 
 ![Jonathan Innis's Lastest Music Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=1215241367&count=3)
 
 <br/>
-<br />
+<br/>
 
 
 ![Jonathan Innis's Github Stats](https://github-readme-stats.vercel.app/api?username=jonathan-innis&count_private=true&show_icons=true)
