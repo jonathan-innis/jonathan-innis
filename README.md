@@ -45,9 +45,3 @@
 ## Some Good Beats 🎧
 
 ![Jonathan Innis's Lastest Music Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=1215241367&count=3)
-
-<br/>
-<br/>
-
-
-![Jonathan Innis's Github Stats](https://github-readme-stats.vercel.app/api?username=jonathan-innis&count_private=true&show_icons=true)
