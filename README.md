@@ -27,6 +27,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/jonathan-innis/jonathan-innis/blob/main/icons/github.svg" />
 <br />
 <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-innis&hide=html,css&layout=compact&langs_count=10)
+<br />
+<br />
 
 ## Creative Outlets
 
